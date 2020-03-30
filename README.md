@@ -1,49 +1,35 @@
+<h1 align="center">ttub-nii / Study-for-26-Server</h1>
 
-# <div align="center"> 🔥Prepare-for-26-Server🔥 <br> <img alt="npm" src="https://img.shields.io/badge/npm-v6.13.4-red"> <img alt="node" src="https://img.shields.io/badge/node-v13.6.0-yellow"> <img alt="study" src="https://img.shields.io/badge/study-server-blue"> <img alt="data" src="https://img.shields.io/badge/since-2020.01.20-lightgrey"> <img alt="license" src="https://img.shields.io/badge/license-MIT-green"> </center></div>
+<div style="display:flex;" align="center">
 
-
-<div align="center" style="display:flex;">
-	<img width="1000" alt="스크린샷 2020-02-17 오후 10 30 47" src="https://user-images.githubusercontent.com/35520314/74658256-39555900-51d5-11ea-848b-55af5a630f62.png" width="16%"/>
+  <img alt="npm" src="https://img.shields.io/badge/npm-v6.13.4-red">
+  <img alt="node" src="https://img.shields.io/badge/node-v13.6.0-yellow">
+  <img alt="study" src="https://img.shields.io/badge/study-server-blue">
+  <img alt="data" src="https://img.shields.io/badge/since-2020.01.20-lightgrey">
+  <img alt="license" src="https://img.shields.io/badge/license-MIT-green">
 </div>
 
-<br>
+<br/>
 
-<div align="center" style="display:flex;">25기 수료자를 대상으로 한 서버 스터디는<br>
-클라이언트 파트에서 서버 파트로 지원하려는 OB 회원들을 위해 열린 스터디로, <br>
-서버 파트에 들어가기 전에 알고 가면 좋을만한 기본 사항들을 정리한 강의입니다. 
-<br>
-언어는 javascript이고, node.js를 사용합니다.</center></div>
+# 🚩 정민 스앵님과 함께하는 서린 스털뒤
+  Node.js 와 Express 프레임워크를 사용하여 서버 환경 구축하기
 
+<br/>
 
-<br>
+## 📌 세미나 정리
 
-## 📋목차
+- **첫번째 세미나** 서버란 무엇인가? [이동](https://github.com/ttub-nii/Prepare-for-26-Server/blob/master/READMEs/첫번째%20세미나.md)
+- **두번째 세미나** node.js 소개와 프로젝트 구조 [이동](https://github.com/ttub-nii/Prepare-for-26-Server/blob/master/READMEs/두번째%20세미나.md)
+- **세번째 세미나** Node.js Express 환경 세팅하기 [이동](https://github.com/ttub-nii/Prepare-for-26-Server/blob/master/READMEs/세번째%20세미나.md)
+- **네번째 세미나** REST API 란 무엇인가? [이동](https://github.com/ttub-nii/Prepare-for-26-Server/blob/master/READMEs/네번째%20세미나.md)
+- **다섯번째 세미나** node.js의 구조 [이동](https://github.com/ttub-nii/Prepare-for-26-Server/blob/master/READMEs/다섯번째%20세미나.md)
+- **여섯번째 세미나** 암호화 알고리즘과 JWT [이동](https://github.com/ttub-nii/Study-for-26-Server/blob/master/READMEs/여섯번째%20세미나.md)
 
-### 01. 서버란 무엇인가 [🔗](https://github.com/tape22/Prepare_for_26_Server/blob/master/01.%20About%20Server.md)
-	- 서버의 역할
-	- 전체적인 통신 흐름
-	- 스터디 커리큘럼
+<br/>
 
+## 📌 과제 정리
 
-### 02. express와 폴더 구조 [🔗](https://github.com/tape22/Prepare_for_26_Server/blob/master/02.%20Express%20%26%20Folder.md)
-	- express 설치하기
-	- node.js 폴더 구조
-	- 체계적인 폴더링 해보기
-
-
-### 03. REST API와 node.js
-	- REST API란?
-	- URI와 URL
-	- CRUD와 METHOD
-	- 그래서 node.js 는 무엇인가?
-	- 키워드 별로 알아보자
-	
-	
-### 04. AWS EC2와 RDS 사용하기
-	- 과금 안나게 AWS세팅하기
-	- EC2 생성과 삭제,분리하기
-	- EC2로 서버 코드 배포하기
-	- RDS 생성하고 삭제하기
-	- RDS 테이블 만드는 법
-	
-### 05. S3와 multer, DB 맛보기
+- **첫번째 과제** Promise, async, await 알아오기 [이동](https://github.com/ttub-nii/Prepare-for-26-Server/blob/master/READMEs/첫번째%20과제.md)
+- **두번째 과제** Blog 기능을 갖춘 서버 구축해보기 1탄  [이동](https://github.com/ttub-nii/Study-for-26-Server/blob/master/READMEs/두번째%20과제.md)    Blog 기능을 갖춘 서버 구축해보기 2탄 [이동](https://github.com/ttub-nii/Study-for-26-Server/blob/master/READMEs/두번째%20과제2.md)
+- **세번째 과제** RDS 와 MySQL Workbench 연결 [이동](https://github.com/ttub-nii/Study-for-26-Server/blob/master/READMEs/세번째%20과제.md)
+- **네번째 과제** Mongo DB, MySQL 차이 및 장단점 정리 [이동](https://github.com/ttub-nii/Study-for-26-Server/blob/master/READMEs/네번째%20과제.md)
